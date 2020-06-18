@@ -1,3 +1,11 @@
+#Concepts that I use in this project
+  - React function components
+  - React hooks
+  - State management in React
+  - Prop drilling
+  - How to use create-react-app
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
