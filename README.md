@@ -1,4 +1,4 @@
-#Concepts that I use in this project
+## Concepts that I use in this project
   - React function components
   - React hooks
   - State management in React
